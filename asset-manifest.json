@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/facbook-card/static/css/main.274a5c68.chunk.css",
+    "main.js": "/facbook-card/static/js/main.40567f10.chunk.js",
+    "main.js.map": "/facbook-card/static/js/main.40567f10.chunk.js.map",
+    "runtime-main.js": "/facbook-card/static/js/runtime-main.5e5ac991.js",
+    "runtime-main.js.map": "/facbook-card/static/js/runtime-main.5e5ac991.js.map",
+    "static/js/2.93b52f8e.chunk.js": "/facbook-card/static/js/2.93b52f8e.chunk.js",
+    "static/js/2.93b52f8e.chunk.js.map": "/facbook-card/static/js/2.93b52f8e.chunk.js.map",
+    "index.html": "/facbook-card/index.html",
+    "static/css/main.274a5c68.chunk.css.map": "/facbook-card/static/css/main.274a5c68.chunk.css.map",
+    "static/js/2.93b52f8e.chunk.js.LICENSE.txt": "/facbook-card/static/js/2.93b52f8e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/facbook-card/static/media/XAYulx.4acad6bc.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e5ac991.js",
+    "static/js/2.93b52f8e.chunk.js",
+    "static/css/main.274a5c68.chunk.css",
+    "static/js/main.40567f10.chunk.js"
+  ]
+}
